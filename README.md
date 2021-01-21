@@ -1,4 +1,3 @@
-# hello-world
-This is a repository!
+This project is meant to teach me the basics of GitHub.
 
-I'm hoping that using GitHub will be beneficial to my personal projects.
+I will have to experiment with Git, but it shouldn't be too difficult.
